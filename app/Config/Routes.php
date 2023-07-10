@@ -31,8 +31,8 @@ $routes->set404Override();
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/prueba', 'Home::prueba');
-$routes->get('/api', 'Home::api');
-$routes->get('/api/(:any)', 'Home::api/$1');
+$routes->get('/anime', 'Home::anime');
+$routes->get('/anime/(:any)', 'Home::anime/$1');
 $routes->get('/login', 'Home::login');
 $routes->get('/testbd/(:any)', 'Home::testbd/$1');
 

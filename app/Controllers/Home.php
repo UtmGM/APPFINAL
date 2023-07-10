@@ -14,7 +14,7 @@ class Home extends BaseController
         echo 'hola esto es una prueba';
     }
 
-    public function api($nombreCompleto = null)
+    public function anime($nombreCompleto = null)
 {
     //LOS 10 ANIMES MAS CONOCIDOS
     $animes = [
