@@ -34,7 +34,14 @@ $routes->get('/prueba', 'Home::prueba');
 $routes->get('/anime', 'Home::anime');
 $routes->get('/anime/(:any)', 'Home::anime/$1');
 $routes->get('/login', 'Home::login');
-$routes->get('/testbd/(:any)', 'Home::testbd/$1');
+$routes->get('/testdb', 'Home::testdb');
+$routes->get('/testdb/(:any)', 'Home::testdb/$1');
+//post -> se agrega sin el testdb/
+$routes->post('/agregar', 'Home::agregarDato');
+//put -> se agrega sin el testdb/
+$routes->put('/actualiza/(:num)', 'Home::actualizarDato/$1');
+// Talcual
+$routes->delete('/testdb/(:num)', 'Home::eliminar/$1');
 
 /*
  * --------------------------------------------------------------------

@@ -120,7 +120,75 @@ class Home extends BaseController
     return $this->response->setJSON($animes);
 }
 // Login
-     public function login(){
+    public function login(){
         return view('login');
      }
+
+      /*$this->db=\Config\Database::connect();
+         echo "hola";*/
+
+    /* public function testdb()
+    {
+       
+        $this->db=\Config\Database::connect();
+        $query=$this->db->query("SELECT id, Anime, Sipnosis, Episodios, Temporadas, Fecha_de_estreno, Plataforma_Oficial
+        FROM series.Animes");
+        $result=$query->getResult();
+        return $this->response->setJSON($result);
+    }*/
+
+    
+   public function testdb($id = null)       
+    {
+              
+        $this->db=\Config\Database::connect();
+        $query=$this->db->query("SELECT id, Anime, Sipnosis, Episodios, Temporadas, Fecha_de_estreno, Plataforma_Oficial
+        FROM series.Animes where id='$id' ");
+        $result=$query->getResult();
+        return $this->response->setJSON($result);
+    }
+
+
+///AGREGAR DATOS
+public function agregarDato()
+{
+    $datosRecibidos = $this->request->getJSON(true); 
+    // Insertar los datos en la base de datos
+    $conexion = \Config\Database::connect();
+    $conexion->table('Animes')->set($datosRecibidos)->insert();
+    //Mostrar mensaje de confirmacion 
+    $respuesta = [
+        'mensaje' => 'Los Datos se agregaron exitosamente'
+    ];
+
+    return $this->response->setJSON($respuesta);
+}
+
+////ACTUALIZAR LOS DATOS
+public function actualizarDato($id)
+{
+    // Recopilar la información proporcionada en la solicitud POST.   
+    $datosRecibidos = $this->request->getJSON(true); 
+    $conexion = \Config\Database::connect();
+    $conexion->table('Animes')->set($datosRecibidos)->where('id', $id)->update();
+    
+    //Mostrar mensaje de confirmacion 
+    $respuesta = [
+        'mensaje' => 'Los Datos se actualizaron correctamnete'
+    ];
+    return $this->response->setJSON($respuesta);
+}
+
+///ELIMINAR DATOS
+public function eliminar($id)
+{
+    $conexion = \Config\Database::connect();
+    $conexion->table('Animes')->where('id', $id)->delete();
+
+    $respuesta = [
+        'mensaje' => 'Eliminado correctamente'
+    ];
+
+    return $this->response->setJSON($respuesta);
+}
 }

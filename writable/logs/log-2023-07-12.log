@@ -1,0 +1,726 @@
+WARNING - 2023-07-12 04:03:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 129.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:07:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 129.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:09:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:09:51 --> Undefined variable $cedula
+in APPPATH\Controllers\Home.php on line 134.
+ 1 APPPATH\Controllers\Home.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cedula', 'C:\\xampp\\htdocs\\ci4_p\\app\\Controllers\\Home.php', 134)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:10:10 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:10:25 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:10:27 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:12:09 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:12:10 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:12:10 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:13:38 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:13:54 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:13:54 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:13:55 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:16:22 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:18:52 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:18:53 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:18:54 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:19:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:19:06 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#3 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-07-12 04:19:06 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:25:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:25:06 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#3 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-07-12 04:25:06 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:25:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:25:07 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#3 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-07-12 04:25:07 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:25:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:25:21 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#3 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-07-12 04:25:21 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:31:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:31:10 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#3 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-07-12 04:31:10 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:31:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:31:11 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#3 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-07-12 04:31:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:31:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:31:26 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#3 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-07-12 04:31:26 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:31:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:31:48 --> mysqli_sql_exception: Unknown column 'idpersonal' in 'field list' in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT idperson...', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT idperson...')
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT idperson...')
+#3 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idperson...')
+#4 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-07-12 04:31:48 --> Unknown column 'idpersonal' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 4 APPPATH\Controllers\Home.php(133): CodeIgniter\Database\BaseConnection->query('SELECT idpersonal, CI, nombre, apellido1, apellido2, numero_telefonico, pais, ciudad, genero')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:34:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:43:26 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:44:31 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:45:49 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:46:14 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:46:19 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:46:42 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:46:43 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:46:43 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:46:47 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:46:48 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:49:20 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:49:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('Juan')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:49:39 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 127.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:50:27 --> Cannot redeclare App\Controllers\Home::testdb()
+in APPPATH\Controllers\Home.php on line 138.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-12 04:55:03 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 143.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:55:04 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 143.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:57:52 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 143.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:57:53 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 143.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:57:54 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 143.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:57:54 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 143.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 04:57:54 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 143.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:59:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:59:35 --> mysqli_sql_exception: No database selected in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `idperso...', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `idperso...')
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `idperso...')
+#3 C:\xampp\htdocs\ci4_p\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `idperso...', Array, false)
+#4 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(153): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-07-12 04:59:35 --> No database selected
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `idpersonal`, `CI`, `nombre`, `apellido1`, `apellido2`, `numero_telefonico`, `pais`, `ciudad`, `genero`
+FROM `cliente`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `idpersonal`, `CI`, `nombre`, `apellido1`, `apellido2`, `numero_telefonico`, `pais`, `ciudad`, `genero`
+FROM `cliente`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `idpersonal`, `CI`, `nombre`, `apellido1`, `apellido2`, `numero_telefonico`, `pais`, `ciudad`, `genero`
+FROM `cliente`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `idpersonal`, `CI`, `nombre`, `apellido1`, `apellido2`, `numero_telefonico`, `pais`, `ciudad`, `genero`
+FROM `cliente`', [], false)
+ 5 APPPATH\Controllers\Home.php(153): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 04:59:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-12 04:59:37 --> mysqli_sql_exception: No database selected in C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\ci4_p\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `idperso...', 0)
+#1 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `idperso...')
+#2 C:\xampp\htdocs\ci4_p\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `idperso...')
+#3 C:\xampp\htdocs\ci4_p\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `idperso...', Array, false)
+#4 C:\xampp\htdocs\ci4_p\app\Controllers\Home.php(153): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(932): App\Controllers\Home->testdb()
+#6 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ci4_p\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4_p\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-07-12 04:59:37 --> No database selected
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `idpersonal`, `CI`, `nombre`, `apellido1`, `apellido2`, `numero_telefonico`, `pais`, `ciudad`, `genero`
+FROM `cliente`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `idpersonal`, `CI`, `nombre`, `apellido1`, `apellido2`, `numero_telefonico`, `pais`, `ciudad`, `genero`
+FROM `cliente`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `idpersonal`, `CI`, `nombre`, `apellido1`, `apellido2`, `numero_telefonico`, `pais`, `ciudad`, `genero`
+FROM `cliente`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `idpersonal`, `CI`, `nombre`, `apellido1`, `apellido2`, `numero_telefonico`, `pais`, `ciudad`, `genero`
+FROM `cliente`', [], false)
+ 5 APPPATH\Controllers\Home.php(153): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 05:00:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 05:00:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('5432167890')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 05:03:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 134.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('5432167890')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 05:03:07 --> Too few arguments to function App\Controllers\Home::testdb(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 130.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 05:03:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 05:03:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('5432167890')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 05:04:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 05:04:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('3')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 05:08:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('29')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:32:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:34:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:34:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:34:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:34:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 21:35:48 --> Cannot redeclare App\Controllers\Home::testdb()
+in APPPATH\Controllers\Home.php on line 144.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+WARNING - 2023-07-12 21:36:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('3')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:40:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('1')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:40:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:41:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:42:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 146.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:42:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 146.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('29')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:42:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 146.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:42:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 146.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:43:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:51:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 21:51:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('29')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 22:09:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 147.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('29')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-07-12 22:09:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 147.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->testdb('login')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 22:10:05 --> Too few arguments to function App\Controllers\Home::login(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 22:11:46 --> Too few arguments to function App\Controllers\Home::login(), 0 passed in C:\xampp\htdocs\ci4_p\system\CodeIgniter.php on line 932 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->login()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
